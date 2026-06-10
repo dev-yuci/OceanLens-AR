@@ -1,0 +1,114 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ / Android Studio
+*.iml
+*.ipr
+*.iws
+.idea/
+.gradle/
+local.properties
+captures/
+*.apk
+*.ap_
+*.dex
+*.jks
+*.keystore
+
+# VS Code
+.vscode/
+!.vscode/extensions.json
+.history/
+
+# Xcode / CocoaPods
+ios/
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/.last_build_id
+**/ios/Runner/GeneratedPluginRegistrant.*
+**/ios/Runner/Assets.xcassets/AppIcon.appiconset/
+**/ios/DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+!default.pbxuser
+!default.mode1v3
+!default.mode2v3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM/
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+build/
+/coverage/
+
+# Web related
+.node_modules/
+node_modules/
+package-lock.json
+
+# Symbolication / Obfuscation
+app.*.symbols
+app.*.map.json
+
+# Android Studio build artifacts
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Large Files & Media (Arşivler, video, büyük dosyalar)
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.tar
+*.iso
+*.dmg
+*.exe
+*.msi
+*.bin
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.mp3
+*.flac
+
+# -------------------------------------------------------
+# 3D Model Dosyaları — Tüm fish_models klasörü hariç tutuldu
+# (Dosyalar GitHub'ın 100MB limitini aşıyor, Git LFS kullanılması önerilir)
+# -------------------------------------------------------
+assets/fish_models/
+
+# Diğer tüm proje asset'leri (ses efektleri, görseller, logolar) takip edilsin
+!assets/screenshots/**
+!assets/logos/**
+!assets/sounds/**
