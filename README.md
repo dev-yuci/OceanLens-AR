@@ -9,6 +9,16 @@
 
 ---
 
+## 📦 İndirme Linkleri
+
+> Projenin **3D model dosyaları** (`.glb`) ve derlenmiş **Android APK** dosyası, dosya boyutları nedeniyle GitHub üzerinde barındırılmamaktadır.
+> Ayrıca demo videosu da google drive linkinde bulunmaktadır.
+> Aşağıdaki Google Drive bağlantısından tüm dosyalara erişebilirsiniz:
+>
+> 🔗 **[Google Drive — 3D Modeller & Android APK](https://drive.google.com/drive/folders/17wXgngqpeMT_WU4Mwc99joYoupIyfE6P?usp=sharing)**
+
+---
+
 ## 📸 Uygulama Görselleri
 
 <table>
@@ -152,17 +162,6 @@ flutter build apk --release
     ```bash
     flutter run
     ```
-
----
-
-## 📦 İndirme Linkleri
-
-> Projenin **3D model dosyaları** (`.glb`) ve derlenmiş **Android APK** dosyası, dosya boyutları nedeniyle GitHub üzerinde barındırılmamaktadır.
-> Aşağıdaki Google Drive bağlantısından tüm dosyalara erişebilirsiniz:
->
-> 🔗 **[Google Drive — 3D Modeller & Android APK](https://drive.google.com/drive/folders/17wXgngqpeMT_WU4Mwc99joYoupIyfE6P?usp=sharing)**
-
----
 
 ## 🤝 Katkıda Bulunma
 
